@@ -1,0 +1,45 @@
+.Categories-style{
+    height: 65px; margin-top: -1px; padding: 0 30px;
+}
+.mh-30{
+    min-height: 300px;
+}
+.h-410{
+    height: 410px;
+}
+.mw-700{
+    max-width: 700px;
+}
+.w-45{
+    width: 40px;
+}
+.w-50{
+    width: 50px !important;
+}
+.h-45{
+
+    height: 45;
+}
+
+.p-30{
+    padding: 30px;
+}
+.z-i-1{
+    z-index:1;
+}
+.d-flex {
+    display: flex !important;
+}
+.w-130{
+    width: 130px;
+}
+.w-100{
+    width: 100px;
+}
+.testfixed{
+    position: fixed;
+}
+
+input.form-control.form-control-sm.bg-secondary.text-center {
+    padding: 25px 0px !important;
+}
